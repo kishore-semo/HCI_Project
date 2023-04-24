@@ -1,0 +1,59 @@
+PODS:
+  - Alamofire (5.6.2)
+  - BlueCryptor (2.0.1)
+  - BlueSocket (2.0.4)
+  - BlueSSLService (2.0.2):
+    - BlueSocket (~> 2.0.2)
+  - IBMSMTPPod (5.1.1):
+    - BlueCryptor
+    - BlueSocket
+    - BlueSSLService
+    - LoggerAPI
+  - iOSDropDown (0.4.0)
+  - IQKeyboardManagerSwift (6.5.11)
+  - LoggerAPI (2.0.0):
+    - Logging (~> 1.1)
+  - Logging (1.4.0)
+  - Realm (10.38.0):
+    - Realm/Headers (= 10.38.0)
+  - Realm/Headers (10.38.0)
+  - RealmSwift (10.38.0):
+    - Realm (= 10.38.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IBMSMTPPod
+  - iOSDropDown
+  - IQKeyboardManagerSwift
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BlueCryptor
+    - BlueSocket
+    - BlueSSLService
+    - IBMSMTPPod
+    - iOSDropDown
+    - IQKeyboardManagerSwift
+    - LoggerAPI
+    - Logging
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  BlueCryptor: d2f95abbdfd91656e560850d887d47387a9bf2eb
+  BlueSocket: cc33e2bded4b680ff14200b4160ed459602b9205
+  BlueSSLService: be5d074a906e2da4e4c3e7b17f906d0c9c3a398f
+  IBMSMTPPod: 1042cefbd0e15a98e9d9815ed69cabf8213f33e7
+  iOSDropDown: ce9daa584eaa5567cafc1b633e3cc7eb6d9cea42
+  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
+  LoggerAPI: 1dc79b15e8a9bca910570936d7ada8dc66d3d709
+  Logging: beeb016c9c80cf77042d62e83495816847ef108b
+  Realm: 5902885dd1d5e71b0b020830caab937ecdf5bf07
+  RealmSwift: 0fc037d6c32c7c4fc9362892380f380114ecdcf0
+
+PODFILE CHECKSUM: c67245664e67210b76861bb760cf53e56f9683d9
+
+COCOAPODS: 1.11.3
